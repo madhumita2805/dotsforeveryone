@@ -1109,3 +1109,14 @@ body .cm {
   cursor: pointer;
   border-radius: 5px;
 }
+
+.cm .delete1-modal {
+  width: 20%;
+  max-width: 390px;
+  min-height: 180px;
+  border-radius: 20px;
+  border: 1px solid #fdcf01;
+  background: var(--color-dark-white);
+  margin-left: 32%;
+
+}

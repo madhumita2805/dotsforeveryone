@@ -1483,3 +1483,12 @@ input[type="button"]:focus {
     transform: translate(100%) rotate(-20deg) scale(0, 2);
   }
 }
+
+
+
+
+.lightapp.dropdown-button1{
+  border-radius: 5px;
+  background: var(--color-light-gray);
+}
+                                
